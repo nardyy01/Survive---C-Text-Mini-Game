@@ -1,0 +1,25 @@
+﻿           
+		   THIS IS USED TO TEST THE FIGHTING
+		    do
+            {
+                threat.getAttacked(player.getDamage());
+                player.setHealth(threat.Attack(player.getHealth(), false));
+                delay(2000);
+                print("Your health is now {0}.", player.getHealth().ToString());
+                Console.WriteLine("{1} health: {0}", threat.getHealth().ToString(), threat.getName());
+            } while (player.getHealth() > 0 && threat.getHealth() > 0);
+
+            if (player.getHealth() > 0 && threat.getHealth() <= 0)
+            {
+                player.setExp(player.getExp() + threat.getExp());
+                player.checkForLevelUp();
+                delay(3000);
+                return "You killed the " + threat.getName() + "!";
+            }
+            else if (player.getHealth() <= 0)
+            {
+                delay(3000);
+                return "You have died!\nGame Over";
+            }
+            else
+                return "You got away successfully!";

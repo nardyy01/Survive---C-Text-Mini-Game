@@ -1,0 +1,6 @@
+C:\Users\pspyt\OneDrive\Documents\Visual Studio 2017\Backup Files\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\pspyt\OneDrive\Documents\Visual Studio 2017\Backup Files\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\pspyt\OneDrive\Documents\Visual Studio 2017\Backup Files\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\pspyt\OneDrive\Documents\Visual Studio 2017\Backup Files\ConsoleApplication2\ConsoleApplication2\obj\Debug\Text Adventures.csproj.CoreCompileInputs.cache
+C:\Users\pspyt\OneDrive\Documents\Visual Studio 2017\Backup Files\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\pspyt\OneDrive\Documents\Visual Studio 2017\Backup Files\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
